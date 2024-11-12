@@ -12,13 +12,18 @@
         <h1 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-gray-200 pb-3 text-center">LEGAL PENDIRIAN</h1>
         <ul class="space-y-4 list-disc list-inside">
             <li class="text-lg text-gray-700">
-                <span class="font-semibold">Peraturan Pemerintah No. 67 Tahun 2013:</span> Lambang Universitas Gadjah Mada memiliki 2 jenis lambang, yaitu lambang 3 Dimensi dan lambang 2 Dimensi.
+                <span class="font-semibold">Peraturan Rektor 10 tahun 2023 tentang Organisasi Tata Kerja UGM:</span>Lembaga Sertifikasi Profesi sebagaimana dimaksud dalam Pasal 10 huruf c merupakan unsur penunjang dan berada di bawah koordinasi serta bertanggung jawab kepada Wakil Rektor Bidang Pendidikan dan Pengajaran.
             </li>
             <li class="text-lg text-gray-700">
-                <span class="font-semibold">Peraturan Pembuatan Lembaga Sertifikasi Profesi:</span> Universitas Gadjah Mada.
+                <span class="font-semibold">Peraturan Rektor No. 18 tahun 2023:</span>Lembaga Sertifikasi Profesi selanjutnya disingkat LSP adalah lembaga yang melaksanakan kegiatan uji kompetensi untuk sertifikasi profesi di lingkungan UGM.
             </li>
             <li class="text-lg text-gray-700">
-                <span class="font-semibold">Peraturan Penggunaan Font:</span> Universitas Gadjah Mada.
+                <span class="font-semibold">UU Nomor 12 Tahun 2012:</span> Serifikat kompetensi sebagaimana dimaksud padaayat (1) diterbitkan oleh Perguruan Tinggi bekerjasama dengan organisasi profesi, lembaga pelatihan, atau lembaga sertifikasi yang terakreditasi kepada lulusan yang lulus uji kompetensi
+            </li>
+            <li class="text-lg text-gray-700">
+                <span class="font-semibold">Peraturan Pemerintah Nomor 4 Tahun 2014:</span> Sertifikat profesi sebagaimana dimaksud pada ayat (1) diterbitkan oleh Perguruan Tinggi bersama dengan Kementerian, Kementerian Lain, LPNK, dan/atau Organisasi Profesi.
+            <li class="text-lg text-gray-700">
+                <span class="font-semibold">Permendikbud Nomor 81 tahun 2014:</span>  Sertifikat Kompetensi dapat diterbitkan oleh perguruan tinggi yang pelaksanaan uji kompetensinya bekerja sama dengan organisasi profesi, lembaga pelatihan, atau lembaga sertifikasi yang terakreditasi. 
             </li>
         </ul>
     </div>
